@@ -1,0 +1,40 @@
+#hover:hover{
+ background-color: rgb(0, 0, 0);
+ color: aliceblue;
+ transition: 1000ms;
+}
+#logoutbutton{
+    display: none;
+}
+#homepage{
+    display: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+}
+nav  {
+   background-image: url("backgprund.jpeg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-size: 20px;
+   font-weight: bolder;
+
+}
+footer{
+    background-image: url("backgprund.jpeg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   font-size: 20px;
+   font-weight: bolder;
+}
+#logincard{
+   background-image: url("1.webp");
+  
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+input{
+    background-image: url("2.webp");
+  
+    background-size: cover;
+    background-repeat: no-repeat;
+}
